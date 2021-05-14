@@ -1,5 +1,4 @@
 # HANDWRITTEN-DIGIT-RECOGNITION-USING-TENSORFLOW-AND-PYTHON
 
-The principle objective in digit acknowledgment is highlight extraction is to eliminate the excess from the  information and increase a more compelling epitome of the word picture through a bunch of mathematical properties
- 
- 
+Recognized digits of different sizes and orientations from various sources such as e-mails, bank cheques etc.
+Made use of MNIST dataset and Neural Networks. The algorithm used to carry out the project is Sequential Neural Network which is known to be one of the easiest methods to build a model in Keras.
